@@ -1,0 +1,12 @@
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.exe
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.deps.json
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.runtimeconfig.json
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.runtimeconfig.dev.json
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.dll
+C:\Users\kietd\source\repos\Lab5\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.pdb
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.AssemblyInfoInputs.cache
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.AssemblyInfo.cs
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.dll
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.pdb
+C:\Users\kietd\source\repos\Lab5\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.genruntimeconfig.cache
